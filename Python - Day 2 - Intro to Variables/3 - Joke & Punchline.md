@@ -1,4 +1,5 @@
-# Joke & Punchline 👨🏽‍💻![AtgCapaGIF](AtgCapaGIF.gif)
+# Joke & Punchline 👨🏽‍💻
+![AtgCapaGIF](AtgCapaGIF.gif)
 
 
 ## Task 5
