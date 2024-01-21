@@ -22,6 +22,7 @@ The table below illustrates how these operators are carried out. Assume that the
 
 # Task 1 
 ![MathThinkingGIF](MathThinkingGIF.gif)
+
 See if you can work out the calculations in your head, and then check your answer with your classmates and those shown in the table above.
 
 # Task 2 👨🏽‍💻
