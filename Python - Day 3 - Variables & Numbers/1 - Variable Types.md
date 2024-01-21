@@ -1,6 +1,7 @@
 # Variable Types 📚
 
 Python uses 4 main Data Types as shown below:
+
 ![image](image.png)
 
 - `integers` - Examples of integers include: ``2, 606, -3, 0`` etc.
