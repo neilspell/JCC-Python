@@ -10,7 +10,7 @@ Python uses 4 main Data Types as shown below:
 - `Boolean` - can only be `True` or `False`, we will learn more about these later in the year.
 
 ## Task 1 👨🏽‍💻
-Type up this program and run it in ``main.py``:
+Type up this program and run it in ``Thonny``:
 ````python
 x= 5
 print(type(x))
@@ -27,7 +27,7 @@ We did not have to tell Python that variable `x` (initially a type int) needed t
 
 ## Converting from type `int` to `float`.
 
-> Type this program into ``main.py`` to convert a variable to a float:
+> Type this program into ``Thonny`` to convert a variable to a float:
 ````python
 x = 5
 print(type(x))    # prediction...
