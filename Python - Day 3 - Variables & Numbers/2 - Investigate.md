@@ -35,7 +35,7 @@ print("Hello " + firstName + ". Your full name is " + fullName + ".")
 ````
 
 ## Challenge 4 - Investigate
-In the example below, `copy` and `paste` the code into `main.py` and then answer the questions in the comment spaces provided.
+In the example below, `copy` and `paste` the code into `Thonny` and then answer the questions in the comment spaces provided.
 
 ````py
 ### Example Code 1
