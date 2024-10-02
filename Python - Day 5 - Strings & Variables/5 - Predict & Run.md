@@ -49,11 +49,11 @@ town[0] = "N"
 ````
 👉 Try for yourself and see what happens!
 
-To ‘change’ the value of town to Navan the program needs to make a new assignment `town = "Navan"` but be warned that the reference to the original string "Cavan" is now lost.
+To ‘change’ the value of ``town`` to Navan the program needs to make a new assignment `town = "Navan"` but be warned that the reference to the original string "Cavan" is now lost.
 
 Secondly, if a program attempted to access a character in a string using an index that is too big (i.e. beyond the last character) for that string; Python returns a runtime error telling you that the index is out of range. 
 
-For example, running the following code snippet would result in a runtime error being displayed because the index 5 is beyond the range of the string.
+For example, running the following code snippet would result in a runtime error being displayed because the index ``5`` is beyond the range of the string.
 
 ````py
 s = "Hello"
