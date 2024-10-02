@@ -4,7 +4,6 @@
 
 We have already explored how _Strings_ and _Variables_ can be used in our programs _(look back over Intro to Python - Day 1)_
 
-Remember we saw that strings are like _words_ and _sentences_ for computers.
 
 # Strings 📝
 Strings are like _words_ and _sentences_ for computers.
