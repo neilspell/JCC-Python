@@ -9,7 +9,7 @@ _Pangram_ - A pangram is a sentence that uses every letter of the alphabet at le
 
 ✍Record your prediction in your copy.
 
-👉 Copy the code into `main.py` and run it to test your predictions.
+👉 Copy the code into `Thonny` and run it to test your predictions.
 
 ````py
 # Initialise the string 
