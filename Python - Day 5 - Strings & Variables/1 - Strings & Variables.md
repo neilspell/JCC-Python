@@ -11,6 +11,7 @@ Strings are like _words_ and _sentences_ for computers.
 A string is just a bunch of characters put together.
 
 Characters can be letters, numbers, symbols, or even spaces. 
+
 (e.g. ``"Hello, World!"`` is a string because it's made up of the characters ``H``, ``e``, ``l``, ``l``, ``o``,``space``, ``W``, ``o``, ``r``, ``l``, ``d``, and ``!``, all in a specific order.
 
 Strings are super useful because they let us work with **_text_** in computer programs.
@@ -26,7 +27,7 @@ In todays' tutorial, we are going to look at some more complex uses of strings a
 
 ## Task 1 - Character Counter - Parson's Problem 🤔
 
-> Try to complete the following tasks in `main.py`
+> Try to complete the following tasks in `Thonny`
 
 -  Ask the user to enter a word or phrase.
 -  Calculate and store the number of characters in the input using the `len()` function.
