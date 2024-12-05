@@ -1,4 +1,4 @@
-# Challeges ⚔️
+# Challenges ⚔️
 Please complete the following challenges in `main.py`
 
 Use `# comments` as appropriate to outline what your code is doing.
@@ -9,7 +9,7 @@ You may use `""""` to comment out blocks of code from previous challenges.
 ## Challenge 1 👨‍💻
 Ask user for 2 numbers. 
 
-If num1 is larger than num2, display num2 first and then num1, otherwise show num1 and num2.
+If ``num1`` is larger than ``num2``, display ``num2`` first and then ``num1``, otherwise show ``num1`` and ``num2``.
 
 ## Challenge 2 👨‍💻
 Ask the user to enter a number that is less than 20. 
