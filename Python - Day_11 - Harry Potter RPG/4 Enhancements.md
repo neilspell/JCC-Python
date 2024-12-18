@@ -35,7 +35,7 @@ play_again.lower
 </details>
 
 ## 6 - Comments
-Please remember to add `# comments` to your code to explain what different sectiosn are doing.
+Please remember to add `# comments` to your code to explain what different sections are doing.
 
 ````py
 # Comments are really important to help understand what your code is doing.
