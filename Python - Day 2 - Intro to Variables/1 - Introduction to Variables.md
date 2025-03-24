@@ -41,6 +41,7 @@ print(x)
 
 ## Get the Data Type
 ![image](image_5.png)
+
 You can get the data type of a variable with the ``type()`` function.
 
 We can also print out the variable’s type using Python’s ``print(type(variable))``. 
