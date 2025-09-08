@@ -2,7 +2,7 @@
 
 1. Ask the user to enter their ``birth year``.
 
-2. Calculate their age by subtracting the ``birth year`` from the current year _(you can assume the current year is 2024)._
+2. Calculate their age by subtracting the ``birth year`` from the current year _(you can assume the current year is 2025)._
 3. Store the ``age`` in a variable and print it.
 
 <details>
